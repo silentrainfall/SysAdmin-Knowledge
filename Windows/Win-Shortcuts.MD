@@ -1,0 +1,23 @@
+* `Middle click a link (or Ctrl + Click a link)` = Open in new tab
+* `Ctrl + F5` = Clear the webpage cache and refresh webpage
+* `Shift + Right click` = Works on most shortcuts or windows functions, usually adds 'experienced user' context menu options
+* `Alt + PrtScn` = Copies an image of the current window to clipboard
+* `Windows Key + R` = Open Run dialog
+* `Windows Key + E` = Open File Explorer window
+* `CTRL + SHIFT + ESC` = Open task manager
+* `SHIFT + DEL` = Permanently delete files (Skips recycle bin)
+* `Windows Key + PAUSE` = Open computer information (Name, domain, etc)
+* `Windows Key + D` = Show desktop
+* `Windows Key + I` = Open settings (Win10)
+* `Windows Key + X` = Open system utilities shortcut menu
+* `Windows Key + M` = Minimize all windows
+* `Windows Key + Shift + M` = Restore all minimized windows
+* `Windows Key + Home` = Minimize all windows except currently active window
+* `SHIFT + CTRL + N` = Create new folder
+* `SHIFT + Windows Key + S` = Snipping tool
+* `CTRL + Windows Key + SHIFT + B` = Reset graphics driver (Reload display)
+* `CTRL + W` = Close window (Doesn't work on all windows, alternate is double clicking the application icon at the top left of the window)
+* `CTRL + ALT + END` = Same as CTRL + ALT + DEL when in an RDS session
+* `CTRL + C` on any standard Windows error window copies it to clipboard
+* `Windows Key + 1,2,3,etc` = Open corresponding application on taskbar from left to right
+* `Windows Key + T` = Navigate taskbar with arrow keys
