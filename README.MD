@@ -1,0 +1,1 @@
+Collection of knowledge, tools, scripts and other nonsense for various SysAdmin-related tasks.
